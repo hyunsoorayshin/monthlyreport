@@ -1,0 +1,15 @@
+# Generated outputs (re-create with build_master.py / monthly_report.py)
+*_Master.csv
+*_Master_Prior.csv
+*_Cutlines.csv
+*_Monthly_Summary.csv
+*_Risk_List*.csv
+reports*/
+*.png
+
+# Environments, tooling, OS
+__pycache__/
+.venv/
+venv/
+.DS_Store
+.claude/
